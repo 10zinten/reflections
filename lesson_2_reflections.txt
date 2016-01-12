@@ -19,3 +19,9 @@ Reflections :
            - Run diff --staged - to track the changes between staging area and the most recent commit in the repository.
            - Run git commit (finally) to commit the changes to the repository.
            - git reset --hard - to discard the changes either in working directory or the staging area.
+
+  When to use branch :
+      4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+           - when we commit changes to experimental project which is a labeled branch.
+           - commit changes to only specific branch.
+           - branch will help to organize those commits under labeled branch.          
