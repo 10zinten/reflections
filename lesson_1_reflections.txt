@@ -1,0 +1,25 @@
+1. diff - when newer version doesnt work. diff is used to detect the changes btwn new and old ver, in turns detecting bug.
+
+2. git - creator linus Troval (2005)
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically.   saved, like Google Docs does?
+     - Each history will have one clear, logical purpose change.
+     - git allows us to write a short msg about change for each commit.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+     - as project tracks all the file together in the repository therefore changes should be commit at once over the multiples files.
+
+5. How can you use the commands git log and git diff to view the history of files?
+     - git log will outputs the history of file with the commit id and get diff outputs what changes have been made.
+
+6. Git commands :
+       1. git log - takes no argument - shows the history of the commits in order of latest interval of time.
+          * git log --stat, for some more details.
+
+       2. git clone - takes one argument (URl) - To clone the repository over the inter-net the through URl.
+
+       3. git diff - takes two arguments ( older --ver commit_ID and newer --ver commit_ID ) - shows changes made in newer --ver as compare older --ver.
+          * git diff -u, for pretty printing.
+
+       4. git checkout - takes one argument ( any commit_ID ) - restoring a previous version.
+                                                              - debugging the project through navigating over the commits.
