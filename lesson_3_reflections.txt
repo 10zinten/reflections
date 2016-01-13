@@ -2,4 +2,4 @@ Reflections :
       Using a remote repository :
         1.When would you want to use a remote repository rather than keeping all your work local?
            - To make the project/code open source.
-           - When we wnat to let others to contribute on our project/code for is progression. 
+           - When we want to let others to contribute on our project/code for is progression. 
