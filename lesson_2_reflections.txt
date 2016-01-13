@@ -31,3 +31,9 @@ Reflections :
            - to understand the what is 'detach HEAD'.
            - concept of reachability.
            - how to retain the commit on detach HEAD by creating new branch with command git checkout -b new_brach-name.
+
+  Merging two branches :
+      6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+           - a new version containing the changes in both branches.
+           - git checkout branch1, git merge branch2 - branch2 merge into branch1 and commit on branch1 label.
+           
