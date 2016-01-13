@@ -7,4 +7,10 @@ Reflections :
       Manual vs. automatic pull :
         2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
            - If automatically then git would update for every each commit made a contributors.
-           - With manually we can pull what we want and when we want the updated remote GitHub version.    
+           - With manually we can pull what we want and when we want the updated remote GitHub version.
+
+      Fork, Branch, Clone :
+        3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+           - fork is cloning a repository on a GitHub server itself.
+           - clones is cloning a repository from GitHub server to our local machine.
+           - branch is making a branch from another branch to to experiment the functionality on certain version, which later to be merged if it works.        
