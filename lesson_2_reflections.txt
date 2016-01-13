@@ -40,4 +40,4 @@ Reflections :
   Automatic vs Manual merging :
       7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
            - automatic merging causes undesirable changes that may lead to program compilation doe not work.
-           - manually merging can resolve the merge conflict by which accepting which changes suits best for the project which git can nit do.   
+           - manually merging can resolve the merge conflict by which accepting which changes suits best for the project which git can not do.   
