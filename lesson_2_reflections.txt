@@ -36,4 +36,8 @@ Reflections :
       6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
            - a new version containing the changes in both branches.
            - git checkout branch1, git merge branch2 - branch2 merge into branch1 and commit on branch1 label.
-           
+
+  Automatic vs Manual merging :
+      7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+           - automatic merging causes undesirable changes that may lead to program compilation doe not work.
+           - manually merging can resolve the merge conflict by which accepting which changes suits best for the project which git can nit do.   
