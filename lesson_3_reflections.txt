@@ -2,4 +2,9 @@ Reflections :
       Using a remote repository :
         1.When would you want to use a remote repository rather than keeping all your work local?
            - To make the project/code open source.
-           - When we want to let others to contribute on our project/code for is progression. 
+           - When we want to let others to contribute on our project/code for is progression.
+
+      Manual vs. automatic pull :
+        2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+           - If automatically then git would update for every each commit made a contributors.
+           - With manually we can pull what we want and when we want the updated remote GitHub version.    
