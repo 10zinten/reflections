@@ -13,4 +13,10 @@ Reflections :
         3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
            - fork is cloning a repository on a GitHub server itself.
            - clones is cloning a repository from GitHub server to our local machine.
-           - branch is making a branch from another branch to to experiment the functionality on certain version, which later to be merged if it works.        
+           - branch is making a branch from another branch to to experiment the functionality on certain version, which later to be merged if it works.
+
+      Local copies of remote branches :
+        4. What is the benefit of having a copy of the last known state of the remote stored locally?
+           - The conflicts arise with collaboration can be solved.
+           - git pull = git fetch + git merge
+          
